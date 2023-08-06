@@ -1,5 +1,5 @@
 # Textport
-### A simple and (fast) chat server and client written in python.
+### A simple and easy to use messenger written in python.
 Changelog: [click here](changelog.md)
 
 Requirements: [click here](requirements.md)
