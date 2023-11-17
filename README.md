@@ -4,7 +4,7 @@ Changelog: [click here](changelog.md)
 
 Requirements: [click here](requirements.md)
 ## Building
-#### Note: Building was only tested on linux-aarch64
+#### Note: You can find Windows build-instructions [here](build-instructions-win.md)
 1. before building clean everything using ``` make clean ```
 2. Build using ``` make all```
 3. alternatively build only client/server with ``` make client ```/``` make server ```
